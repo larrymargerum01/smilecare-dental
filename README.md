@@ -138,27 +138,27 @@ This project demonstrates advanced frontend development, responsive UI design, c
 
 ---
 
-### 🦷 Services & Dentists
+### 🦷 Services & Our Specialists
 
-| Services | Dentists |
-|-----------|----------|
-| ![](screenshots/03-services.png) | ![](screenshots/04-dentists.png) |
-
----
-
-### 📅 Appointments & Facilities
-
-| Appointment | Facilities |
-|-------------|------------|
-| ![](screenshots/05-appointment.png) | ![](screenshots/06-facilities.png) |
+| Services | Our Specialists |
+|----------|-----------------|
+| ![](screenshots/03-services.png) | ![](screenshots/04-our-specialists.png) |
 
 ---
 
-### 😊 Testimonials & Gallery
+### ✨ Smile Gallery & Testimonials
 
-| Testimonials | Gallery |
-|--------------|---------|
-| ![](screenshots/07-testimonials.png) | ![](screenshots/08-gallery.png) |
+| Smile Gallery | Testimonials |
+|---------------|--------------|
+| ![](screenshots/05-smile-gallery.png) | ![](screenshots/06-testimonials.png) |
+
+---
+
+### 📅 Appointment & Facilities
+
+| Book Appointment | Facilities |
+|------------------|------------|
+| ![](screenshots/07-book-appointment.png) | ![](screenshots/08-facilities.png) |
 
 ---
 
@@ -176,6 +176,7 @@ This project demonstrates advanced frontend development, responsive UI design, c
   <img src="screenshots/11-mobile-preview.png" alt="Mobile Preview" width="300">
 </p>
 
+---
 ---
 
 # 📂 Project Structure
