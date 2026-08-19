@@ -2,7 +2,7 @@
 
 A premium, fully responsive dental clinic website designed for modern healthcare providers, private dental practices, and multi-specialty clinics. Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion, the website delivers a clean, trustworthy, and professional user experience with online appointment booking, service showcases, expert dentist profiles, and elegant animations.
 
-🔗 **Live Demo:** https://smile-caree-dental.vercel.app
+🔗 **Live Demo:** https://larry-smilecare-dental.pages.dev
 
 ---
 
@@ -246,7 +246,7 @@ http://localhost:3000
 
 **Live Website**
 
-https://smile-caree-dental.vercel.app
+https://larry-smilecare-dental.pages.dev
 
 ---
 
