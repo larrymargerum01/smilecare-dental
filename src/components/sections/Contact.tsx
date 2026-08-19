@@ -238,7 +238,7 @@ export const Contact: React.FC = () => {
             {/* Styled Google Maps iframe */}
             <div className="w-full h-64 md:h-[280px] rounded-3xl overflow-hidden border border-slate-100 shadow-md">
               <iframe
-                title="SmileCare Dental Clinic Springfield Map"
+                title="Dental Clinic Springfield Map"
                 src={contactDetails.mapEmbedUrl}
                 width="100%"
                 height="100%"

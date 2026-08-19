@@ -41,9 +41,6 @@ export const Footer: React.FC = () => {
                 S
               </div>
               <div className="flex flex-col">
-                <span className="font-bold text-lg text-white tracking-tight leading-tight">
-                  SmileCare
-                </span>
                 <span className="text-[10px] text-primary font-bold tracking-widest uppercase -mt-0.5">
                   Dental Clinic
                 </span>
@@ -183,7 +180,7 @@ export const Footer: React.FC = () => {
         {/* Footer Bottom (Copyright and back to top) */}
         <div className="pt-10 flex flex-col sm:flex-row justify-between items-center gap-6">
           <div className="text-center sm:text-left text-xs md:text-sm font-semibold">
-            <p>&copy; {new Date().getFullYear()} SmileCare Dental Clinic. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Dental Clinic. All rights reserved.</p>
             <p className="text-slate-600 mt-1 font-normal">
               State License: Springfield Medical Registry #DENT-98124-IL
             </p>
@@ -202,7 +199,7 @@ export const Footer: React.FC = () => {
       {/* Subscription Success Toast */}
       <Toast
         show={showToast}
-        message="Thank you! You have successfully subscribed to the SmileCare Dental Clinic newsletter."
+        message="Thank you! You have successfully subscribed to the Dental Clinic newsletter."
         onClose={() => setShowToast(false)}
         type="success"
       />

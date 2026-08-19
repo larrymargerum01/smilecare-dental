@@ -48,11 +48,10 @@ export const Navbar: React.FC = () => {
           {/* Logo */}
           <a href="#" className="flex items-center space-x-2 group">
             <div className="w-10 h-10 bg-primary rounded-xl flex items-center justify-center text-white font-extrabold text-xl shadow-lg shadow-blue-500/20 group-hover:scale-105 transition-transform duration-300">
-              S
+              D
             </div>
             <div className="flex flex-col">
               <span className="font-bold text-lg md:text-xl tracking-tight text-secondary leading-tight">
-                SmileCare
               </span>
               <span className="text-[10px] text-primary font-bold tracking-widest uppercase -mt-0.5">
                 Dental Clinic
@@ -131,10 +130,10 @@ export const Navbar: React.FC = () => {
                 <div className="flex items-center justify-between mb-12">
                   <a href="#" className="flex items-center space-x-2">
                     <div className="w-9 h-9 bg-primary rounded-xl flex items-center justify-center text-white font-extrabold text-lg">
-                      S
+                      D
                     </div>
                     <span className="font-bold text-lg text-secondary tracking-tight">
-                      SmileCare Dental
+                      Dental Clinic
                     </span>
                   </a>
                   <button

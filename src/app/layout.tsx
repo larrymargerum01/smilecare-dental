@@ -17,20 +17,20 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "SmileCare Dental | Premium Family & Cosmetic Dentistry",
-  description: "Experience premium, state-of-the-art dental care at SmileCare Dental. From cosmetic transformations, dental implants, Invisalign, to expert family care. Book your appointment today.",
+  title: "Dental Clinic | Premium Family & Cosmetic Dentistry",
+  description: "Experience premium, state-of-the-art dental care at Dental Clinic. From cosmetic transformations, dental implants, Invisalign, to expert family care. Book your appointment today.",
   keywords: ["dental clinic", "cosmetic dentistry", "dental implants", "Invisalign", "teeth whitening", "family dentist", "Springfield dentist"],
-  authors: [{ name: "SmileCare Dental Team" }],
+  authors: [{ name: "Dental Clinic Team" }],
   openGraph: {
-    title: "SmileCare Dental | Premium Family & Cosmetic Dentistry",
-    description: "Experience premium, state-of-the-art dental care at SmileCare Dental. Leading family, implant, and aesthetic dentistry.",
+    title: "Dental Clinic | Premium Family & Cosmetic Dentistry",
+    description: "Experience premium, state-of-the-art dental care at Dental Clinic. Leading family, implant, and aesthetic dentistry.",
     type: "website",
     locale: "en_US",
-    siteName: "SmileCare Dental Clinic",
+    siteName: "Dental Clinic",
   },
   twitter: {
     card: "summary_large_image",
-    title: "SmileCare Dental Clinic",
+    title: "Dental Clinic",
     description: "State-of-the-art premium dental care and aesthetic treatments.",
   },
 };

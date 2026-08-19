@@ -285,7 +285,7 @@ export const testimonialsList: TestimonialItem[] = [
     name: "Dr. Robert Vance",
     role: "University Professor",
     rating: 5,
-    text: "Being a medical professional myself, I have very high standards for hygiene. SmileCare's multi-stage sterilization protocols and digital check-ins impressed me. The staff are warm, courteous, and efficient.",
+    text: "Being a medical professional myself, I have very high standards for hygiene. Dental Clinic's multi-stage sterilization protocols and digital check-ins impressed me. The staff are warm, courteous, and efficient.",
     photoUrl: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=150"
   },
   {
@@ -374,7 +374,7 @@ export const contactDetails: ContactDetails = {
   address: "742 Evergreen Terrace, Suite 101, Medical District, Springfield, IL 62704",
   phone: "+1 (555) 345-6789",
   emergencyPhone: "+1 (555) 911-DENT (Emergency)",
-  email: "care@smilecaredental.com",
+  email: "care@dental.com",
   mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3065.2366838891544!2d-89.6582963!3d39.7891234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88753a3a41113b27%3A0xe54e3b7b209a3fc4!2sSpringfield%2C%20IL!5e0!3m2!1sen!2sus!4v1680000000000!5m2!1sen!2sus",
   openingHours: [
     { day: "Monday - Friday", hours: "8:00 AM - 7:00 PM" },

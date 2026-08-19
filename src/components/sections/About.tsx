@@ -42,7 +42,7 @@ export const About: React.FC = () => {
             <div className="relative w-full h-[90%] rounded-3xl overflow-hidden shadow-2xl border-4 border-white">
               <Image
                 src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&q=80&w=800"
-                alt="SmileCare Dental Clinic Modern Treatment Room"
+                alt="Dental Clinic Modern Treatment Room"
                 fill
                 className="object-cover"
               />
@@ -75,7 +75,7 @@ export const About: React.FC = () => {
                 Setting the Standard for Modern, Premium Oral Healthcare.
               </h2>
               <p className="text-slate-600 leading-relaxed text-base">
-                SmileCare Dental is a multidisciplinary clinic committed to redefining the dental experience.
+                Dental Clinic is a multidisciplinary clinic committed to redefining the dental experience.
                 We believe that premium oral care combines precise diagnosis, expert clinical execution,
                 and an elegant, stress-free clinical environment.
               </p>
@@ -104,7 +104,7 @@ export const About: React.FC = () => {
             {/* Why Choose Us Pillars */}
             <div className="space-y-4 pt-2">
               <h3 className="text-lg font-bold text-secondary">
-                Why Discerning Patients Choose SmileCare:
+                Why Discerning Patients Choose Our Dental Clinic:
               </h3>
               <div className="space-y-4">
                 {whyChooseUs.map((pillar) => {

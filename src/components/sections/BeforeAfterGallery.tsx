@@ -141,7 +141,7 @@ export const BeforeAfterGallery: React.FC = () => {
                   <span>Clinical outcome achieved under supervision of our chief orthodontist.</span>
                 </div>
                 <span className="font-semibold text-slate-400 uppercase tracking-widest text-[10px] sm:text-right shrink-0">
-                  © SmileCare Dental Clinic
+                  © Dental Clinic
                 </span>
               </div>
             </motion.div>
