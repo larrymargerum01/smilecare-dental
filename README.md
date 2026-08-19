@@ -211,7 +211,7 @@ smilecare-dental
 ## Clone the repository
 
 ```bash
-git clone https://github.com/Pulipati-Rahul/smilecare-dental.git
+git clone https://github.com/larrymargerum01/smilecare-dental.git
 ```
 
 ## Navigate into the project
@@ -286,18 +286,12 @@ While building this project, I learned:
 
 # 👨‍💻 Author
 
-**Pulipati Rahul**
+**Larry Margerum**
 
 Full Stack Developer
 
 **GitHub**  
-https://github.com/Pulipati-Rahul
-
-**LinkedIn**  
-https://www.linkedin.com/in/pulipatirahul
-
-**Portfolio**  
-https://pulipatirahul.vercel.app
+https://github.com/larrymargerum01
 
 ---
 
